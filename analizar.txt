@@ -1,0 +1,14 @@
+a = 5;
+b = 3;
+c = a + b;
+PRINTCAT(c);
+GATITO (a > b) {
+    PRINTCAT(a);
+} GATOTE {
+    PRINTCAT(b);
+}
+i = 0;
+SIAMES (i < 5) {
+    PRINTCAT(i);
+    i = i + 1;
+}
